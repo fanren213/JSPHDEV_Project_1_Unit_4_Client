@@ -1,0 +1,460 @@
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:1
+Please enter file name:Ford Focus Wagon ZTW.properties
+Automobile added message received.
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:3
+Please enter the model name to modity:Focus Wagon ZTW
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Options:
+	(1).	Fort Knox Gold Clearcoat Metallic
+		Prices: 0.00
+	(2).	Liquid Grey Clearcoat Metallic
+		Prices: 0.00
+	(3).	Infra-Red Clearcoat
+		Prices: 0.00
+	(4).	Grabber Green Clearcoat Metallic
+		Prices: 0.00
+	(5).	Sangria Red Clearcoat Metallic
+		Prices: 0.00
+	(6).	French Blue Clearcoat Metallic
+		Prices: 0.00
+	(7).	Twilight Blue Clearcoat Metallic
+		Prices: 0.00
+	(8).	CD Silver Clearcoat Metallic
+		Prices: 0.00
+	(9).	Pitch Black Clearcoat
+		Prices: 0.00
+	(10).	Cloud 9 White Clearcoat
+		Prices: 0.00
+2.	Transmission
+	Options:
+	(1).	automatic
+		Prices: 0.00
+	(2).	standard
+		Prices: -815.00
+3.	Brakes/Traction Control
+	Options:
+	(1).	standard
+		Prices: 0.00
+	(2).	ABS
+		Prices: 400.00
+	(3).	ABS with Advance Trac
+		Prices: 1625.00
+4.	Side Impact Air Bags
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 350.00
+5.	Power Moonroof
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 595.00
+Please input the option set to modify:Power Moonroof
+Feature Name: Power Moonroof
+Options:
+(1).	none
+	Prices: 0.00
+(2).	selected
+	Prices: 595.00
+Please input the option you want:none
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Chosen option:	
+	Prices:		0.00
+2.	Transmission
+	Chosen option:	
+	Prices:		0.00
+3.	Brakes/Traction Control
+	Chosen option:	
+	Prices:		0.00
+4.	Side Impact Air Bags
+	Chosen option:	
+	Prices:		0.00
+5.	Power Moonroof
+	Chosen option:	none
+	Prices:		0.00
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:3
+Please enter the model name to modity:Focus Wagon ZTW
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Options:
+	(1).	Fort Knox Gold Clearcoat Metallic
+		Prices: 0.00
+	(2).	Liquid Grey Clearcoat Metallic
+		Prices: 0.00
+	(3).	Infra-Red Clearcoat
+		Prices: 0.00
+	(4).	Grabber Green Clearcoat Metallic
+		Prices: 0.00
+	(5).	Sangria Red Clearcoat Metallic
+		Prices: 0.00
+	(6).	French Blue Clearcoat Metallic
+		Prices: 0.00
+	(7).	Twilight Blue Clearcoat Metallic
+		Prices: 0.00
+	(8).	CD Silver Clearcoat Metallic
+		Prices: 0.00
+	(9).	Pitch Black Clearcoat
+		Prices: 0.00
+	(10).	Cloud 9 White Clearcoat
+		Prices: 0.00
+2.	Transmission
+	Options:
+	(1).	automatic
+		Prices: 0.00
+	(2).	standard
+		Prices: -815.00
+3.	Brakes/Traction Control
+	Options:
+	(1).	standard
+		Prices: 0.00
+	(2).	ABS
+		Prices: 400.00
+	(3).	ABS with Advance Trac
+		Prices: 1625.00
+4.	Side Impact Air Bags
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 350.00
+5.	Power Moonroof
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 595.00
+Please input the option set to modify:Side Impact Air Bags
+Feature Name: Side Impact Air Bags
+Options:
+(1).	none
+	Prices: 0.00
+(2).	selected
+	Prices: 350.00
+Please input the option you want:selected
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Chosen option:	
+	Prices:		0.00
+2.	Transmission
+	Chosen option:	
+	Prices:		0.00
+3.	Brakes/Traction Control
+	Chosen option:	
+	Prices:		0.00
+4.	Side Impact Air Bags
+	Chosen option:	selected
+	Prices:		350.00
+5.	Power Moonroof
+	Chosen option:	none
+	Prices:		0.00
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:2
+Focus Wagon ZTW
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:3
+Please enter the model name to modity:Focus Wagon ZTW
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Options:
+	(1).	Fort Knox Gold Clearcoat Metallic
+		Prices: 0.00
+	(2).	Liquid Grey Clearcoat Metallic
+		Prices: 0.00
+	(3).	Infra-Red Clearcoat
+		Prices: 0.00
+	(4).	Grabber Green Clearcoat Metallic
+		Prices: 0.00
+	(5).	Sangria Red Clearcoat Metallic
+		Prices: 0.00
+	(6).	French Blue Clearcoat Metallic
+		Prices: 0.00
+	(7).	Twilight Blue Clearcoat Metallic
+		Prices: 0.00
+	(8).	CD Silver Clearcoat Metallic
+		Prices: 0.00
+	(9).	Pitch Black Clearcoat
+		Prices: 0.00
+	(10).	Cloud 9 White Clearcoat
+		Prices: 0.00
+2.	Transmission
+	Options:
+	(1).	automatic
+		Prices: 0.00
+	(2).	standard
+		Prices: -815.00
+3.	Brakes/Traction Control
+	Options:
+	(1).	standard
+		Prices: 0.00
+	(2).	ABS
+		Prices: 400.00
+	(3).	ABS with Advance Trac
+		Prices: 1625.00
+4.	Side Impact Air Bags
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 350.00
+5.	Power Moonroof
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 595.00
+Please input the option set to modify:Brakes/Traction Control
+Feature Name: Brakes/Traction Control
+Options:
+(1).	standard
+	Prices: 0.00
+(2).	ABS
+	Prices: 400.00
+(3).	ABS with Advance Trac
+	Prices: 1625.00
+Please input the option you want:ABS
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Chosen option:	
+	Prices:		0.00
+2.	Transmission
+	Chosen option:	
+	Prices:		0.00
+3.	Brakes/Traction Control
+	Chosen option:	ABS
+	Prices:		400.00
+4.	Side Impact Air Bags
+	Chosen option:	selected
+	Prices:		350.00
+5.	Power Moonroof
+	Chosen option:	none
+	Prices:		0.00
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:3
+Please enter the model name to modity:Focus Wagon ZTW
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Options:
+	(1).	Fort Knox Gold Clearcoat Metallic
+		Prices: 0.00
+	(2).	Liquid Grey Clearcoat Metallic
+		Prices: 0.00
+	(3).	Infra-Red Clearcoat
+		Prices: 0.00
+	(4).	Grabber Green Clearcoat Metallic
+		Prices: 0.00
+	(5).	Sangria Red Clearcoat Metallic
+		Prices: 0.00
+	(6).	French Blue Clearcoat Metallic
+		Prices: 0.00
+	(7).	Twilight Blue Clearcoat Metallic
+		Prices: 0.00
+	(8).	CD Silver Clearcoat Metallic
+		Prices: 0.00
+	(9).	Pitch Black Clearcoat
+		Prices: 0.00
+	(10).	Cloud 9 White Clearcoat
+		Prices: 0.00
+2.	Transmission
+	Options:
+	(1).	automatic
+		Prices: 0.00
+	(2).	standard
+		Prices: -815.00
+3.	Brakes/Traction Control
+	Options:
+	(1).	standard
+		Prices: 0.00
+	(2).	ABS
+		Prices: 400.00
+	(3).	ABS with Advance Trac
+		Prices: 1625.00
+4.	Side Impact Air Bags
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 350.00
+5.	Power Moonroof
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 595.00
+Please input the option set to modify:Color
+Feature Name: Color
+Options:
+(1).	Fort Knox Gold Clearcoat Metallic
+	Prices: 0.00
+(2).	Liquid Grey Clearcoat Metallic
+	Prices: 0.00
+(3).	Infra-Red Clearcoat
+	Prices: 0.00
+(4).	Grabber Green Clearcoat Metallic
+	Prices: 0.00
+(5).	Sangria Red Clearcoat Metallic
+	Prices: 0.00
+(6).	French Blue Clearcoat Metallic
+	Prices: 0.00
+(7).	Twilight Blue Clearcoat Metallic
+	Prices: 0.00
+(8).	CD Silver Clearcoat Metallic
+	Prices: 0.00
+(9).	Pitch Black Clearcoat
+	Prices: 0.00
+(10).	Cloud 9 White Clearcoat
+	Prices: 0.00
+Please input the option you want:Pitch Black Clearcoat
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Chosen option:	Pitch Black Clearcoat
+	Prices:		0.00
+2.	Transmission
+	Chosen option:	
+	Prices:		0.00
+3.	Brakes/Traction Control
+	Chosen option:	ABS
+	Prices:		400.00
+4.	Side Impact Air Bags
+	Chosen option:	selected
+	Prices:		350.00
+5.	Power Moonroof
+	Chosen option:	none
+	Prices:		0.00
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:3
+Please enter the model name to modity:Focus Wagon ZTW
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Options:
+	(1).	Fort Knox Gold Clearcoat Metallic
+		Prices: 0.00
+	(2).	Liquid Grey Clearcoat Metallic
+		Prices: 0.00
+	(3).	Infra-Red Clearcoat
+		Prices: 0.00
+	(4).	Grabber Green Clearcoat Metallic
+		Prices: 0.00
+	(5).	Sangria Red Clearcoat Metallic
+		Prices: 0.00
+	(6).	French Blue Clearcoat Metallic
+		Prices: 0.00
+	(7).	Twilight Blue Clearcoat Metallic
+		Prices: 0.00
+	(8).	CD Silver Clearcoat Metallic
+		Prices: 0.00
+	(9).	Pitch Black Clearcoat
+		Prices: 0.00
+	(10).	Cloud 9 White Clearcoat
+		Prices: 0.00
+2.	Transmission
+	Options:
+	(1).	automatic
+		Prices: 0.00
+	(2).	standard
+		Prices: -815.00
+3.	Brakes/Traction Control
+	Options:
+	(1).	standard
+		Prices: 0.00
+	(2).	ABS
+		Prices: 400.00
+	(3).	ABS with Advance Trac
+		Prices: 1625.00
+4.	Side Impact Air Bags
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 350.00
+5.	Power Moonroof
+	Options:
+	(1).	none
+		Prices: 0.00
+	(2).	selected
+		Prices: 595.00
+Please input the option set to modify:Transmission
+Feature Name: Transmission
+Options:
+(1).	automatic
+	Prices: 0.00
+(2).	standard
+	Prices: -815.00
+Please input the option you want:standard
+Auto name:	Focus Wagon ZTW
+Base price:	18445.00
+Features:
+1.	Color
+	Chosen option:	Pitch Black Clearcoat
+	Prices:		0.00
+2.	Transmission
+	Chosen option:	standard
+	Prices:		-815.00
+3.	Brakes/Traction Control
+	Chosen option:	ABS
+	Prices:		400.00
+4.	Side Impact Air Bags
+	Chosen option:	selected
+	Prices:		350.00
+5.	Power Moonroof
+	Chosen option:	none
+	Prices:		0.00
+MAIN MENU
+1. Add automobiles to server
+2. Get automobiles list
+3. Configure a model
+0. Quit
+Please enter command code:0
+Quit the server.
